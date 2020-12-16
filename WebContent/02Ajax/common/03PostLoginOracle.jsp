@@ -18,7 +18,7 @@ if(isMember==true){
 	String html = "";
 	html+="<table class='table table-bordered' style='width:300px;'>";
 	html+="  <tr>";
-	html+="    <td>회원님, 반갑습니다^^*</td>";
+	html+="    <td>회원님, 반갑습니다</td>";
 	html+="  </tr>";
 	html+="</table>";
 	
@@ -26,7 +26,7 @@ if(isMember==true){
 }
 else{
 	json.put("result", 0);
-	json.put("message", "로그인 실패입니다.ㅜㅜ;");
+	json.put("message", "로그인 실패입니다");
 }
 
 dao.close();//커넥션풀에 자원 반납

@@ -5,8 +5,8 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>JQ02Get.jsp</title>
-<link rel="stylesheet" href="../common/bootstrap4.5.3/css/bootstrap.css" />
 <script src="../common/jquery/jquery-3.5.1.js"></script>
+<link rel="stylesheet" href="../common/bootstrap4.5.3/css/bootstrap.css" />
 <script>
 /*
 	jquery에서 제공하는 Ajax관련 메소드

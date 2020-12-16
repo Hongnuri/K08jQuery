@@ -6,6 +6,7 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 <script src="../common/jquery/jquery-3.5.1.js"></script>
+<link rel="stylesheet" href="../common/bootstrap4.5.3/css/bootstrap.css" />
 <script>	
 	/*
 	jQuery의 시작점을 표현하는 4가지 방식으로 해당 HTML문서가
